@@ -1,0 +1,38 @@
+.slideContainer {
+    height: 450px;
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+.slideIndicator {
+    width: calc(100% * 5);
+    height: 550px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+}
+.slideIndicator h1 {
+    font-weight: bold;
+    text-shadow: 0 0 5px rgba(225, 225, 225, 0.7);
+    position: absolute;
+    z-index: 10;
+    top: 50px;
+    left: 80px;
+}
+.customSlide {
+    width: calc(100% / 5);
+    height: inherit;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.customSlide img {
+    width: 100%;
+    height: 550px;
+    object-fit: cover;
+    object-position: center;
+}
+.transition {
+    transition : all ease 500ms;
+}
