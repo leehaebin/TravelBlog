@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# react 와 sts를 연결하여 만든 여행블로그
+<img width="1438" alt="view" src="https://github.com/leehaebin/TravelBlog/blob/main/public/images/view.png">
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
