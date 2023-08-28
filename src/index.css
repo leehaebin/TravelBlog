@@ -44,8 +44,14 @@ p.fw-bold{
   margin-right: 8px;
 }
 .h5 small:first-child{
-  margin-left: 18px;
+  margin-left: 15px;
 }
+
+.h5 small span:first-child::after{
+  content: "-";
+
+}
+
 
 .btnbox {
   display: flex;
@@ -68,4 +74,12 @@ p.fw-bold{
 .fw-bold a{
   color: #ff67bb;
   text-decoration: none;
+}
+
+.QwYyg{
+  padding-top: 20px;
+}
+
+.aNUFS {
+  padding-top: 40px;
 }
