@@ -1,5 +1,54 @@
-# react 와 sts를 연결하여 만든 여행블로그
-<img width="1438" alt="view" src="https://github.com/leehaebin/TravelBlog/blob/main/public/images/view.png">
+# TravelBlog
+
+
+## 프로젝트 소개
+react와 sts를 연결하여 만든 여행블로그
+
+<br>
+
+## 📚Stacks 
+
+### Environment
+<div align="left">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
+</div>             
+
+
+### Development
+<div align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+</div> 
+
+
+---
+<br>
+
+## ⭐주요 기능 
+
+###  백엔드 데이터 가져오기
+ - axios 사용하여 MySQL 데이터 가져오기
+
+### 디자인
+ - 배열을 매핑하여 컴포넌트로 게시물을 생성
+ - 메인베너 무한 슬라이드
+ - 스타일드 컴포넌트를 사용하여 페이지 레이아웃을 정의
+---
+<br>
+
+## 📺 화면 구성
+
+| 메인 페이지 |
+| :----: |
+| <img width="500" src="https://github.com/leehaebin/TravelBlog/blob/main/public/images/view.png"/> |
+
+---
+<br>
+
 
 ## Getting Started with Create React App
 
